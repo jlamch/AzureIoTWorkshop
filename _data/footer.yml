@@ -2,29 +2,29 @@
   links:
     - name: Home
       link: /
-    - name: Portfolio
-      link: /portfolio/
-    - name: Blog
-      link: /blog/
-    - name: About
-      link: /about/
-    - name: Contact
-      link: /contact/
+    # - name: Portfolio
+    #   link: /portfolio/
+    # - name: Blog
+    #   link: /blog/
+    # - name: About
+    #   link: /about/
+    # - name: Contact
+    #   link: /contact/
 - title: Social
   links:
     - name: Facebook
-      link: https://facebook.com/cloudcannon/
+      link: https://facebook.com/jlamch/
       social_icon: Facebook
       new_window: true
     - name: Twitter
-      link: https://twitter.com/cloudcannon/
+      link: https://twitter.com/jlamch/
       social_icon: Twitter
       new_window: true
-    - name: Instagram
-      link: https://instagram.com/
-      social_icon: Instagram
-      new_window: true
+    # - name: Instagram
+    #   link: https://instagram.com/
+    #   social_icon: Instagram
+    #   new_window: true
     - name: LinkedIn
-      link: https://nz.linkedin.com/company/cloud-cannon
+      link: https://linkedin.com/in/joannalamch
       social_icon: LinkedIn
       new_window: true
