@@ -1,12 +1,12 @@
-title: Urban Template
-url: "https://teal-worm.cloudvent.net"
+title: JLamch Azure IoT workshop
+url: "https://jlamch.net"
 baseurl: "/AzureIoTWorkshop"
 google_analytics_key:
 google_maps_javascript_api_key:
-disqus_shortname:
+disqus_shortname: JLamch Azure IoT workshop
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+description: 
 
 # Author details for the jekyll-seo-tag gem
 author:
@@ -16,9 +16,9 @@ author:
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Urban Template
+  name: Joanna Lamch
   links:
-    - https://github.com/CloudCannon/urban-jekyll-template
+    -hhttps://jlamch.net #https://github.com/CloudCannon/urban-jekyll-template
 
 timezone: Etc/UTC
 
@@ -49,37 +49,37 @@ exclude:
   - LICENCE
 
 defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      _options:
-        content:
-          width: 960
-          height: 2000
-  - scope:
-      path: ""
-      type: "clients"
-    values:
-      layout: "client"
-      _options:
-        image_path:
-          width: 2000
-          height: 2000
-  - scope:
-      path: ""
-      type: "staff_members"
-    values:
-      _options:
-        image_path:
-          width: 600
-          height: 600
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
+  # - scope:
+  #     path: ""
+  #     type: "posts"
+  #   values:
+  #     layout: "post"
+  #     _options:
+  #       content:
+  #         width: 960
+  #         height: 2000
+  # - scope:
+  #     path: ""
+  #     type: "clients"
+  #   values:
+  #     layout: "client"
+  #     _options:
+  #       image_path:
+  #         width: 2000
+  #         height: 2000
+  # - scope:
+  #     path: ""
+  #     type: "staff_members"
+  #   values:
+  #     _options:
+  #       image_path:
+  #         width: 600
+  #         height: 600
+  # - scope:
+  #     path: ""
+  #     type: "pages"
+  #   values:
+  #     layout: "page"
   - scope:
       path: "index.html"
       type: "pages"
@@ -91,10 +91,10 @@ defaults:
 
 social_icons:
   - Facebook
-  - Instagram
+ # - Instagram
   - LinkedIn
-  - Pinterest
-  - Tumblr
+ # - Pinterest
+ # - Tumblr
   - Twitter
-  - YouTube
-  - RSS
+ # - YouTube
+ # - RSS
