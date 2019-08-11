@@ -4,40 +4,78 @@ title: Urban
 
 <section class="hero diagonal">
 	<div class="container">
-		<h2 class="editable">We build websites</h2>
-		<p class="subtext editable">This is the <strong>Urban</strong> template from <a href="http://cloudcannon.com/">CloudCannon</a>. Urban is a strong foundation for the web presence of your agency.</p>
-		<p><a class="button alt" href="{{ site.baseurl }}/contact/">Contact Us</a></p>
+		<h2 class="editable">Azure IoT Workshop</h2>
+		<p class="subtext editable">
+			Fascynuje mnie ostatnio temat IoT. W ferworze walki kupiłam sobie IoT DevKit'a i bawie się różnymi rozwiązaniami IoT na Azurze. Najfajniej jest widzieć jak dane z urządzenia fizycznego materializują się w chmurze. Całość wiedzy jaką zdobyłam jest dla mnie tak satysfakcjonująca, że chciałabym się nią podzielić. Wiedzą i doświadczeniem pracy  z urządzeniami.
+			To właśnie będzie temat warsztatów. Azure, komponenty, IoT, architektura rozwiązań. No i najważniejsze DevKit do pobawienia się. Moim zdaniem bez żywego hardwaru to doświadczenie nie było by pełne, dlatego zapewniam devkity na warsztaty.
+		</p>
+		<p><a class="button alt" href="Konfeo.pl">Bilety</a></p>
 	</div>
 </section>
 
 <section class="diagonal patterned">
 	<div class="container halves">
 		<div>
-			<h3 class="editable">Some of our work</h3>
-			<p class="editable">We take pride in our previous work and our happy customers. We cater to any sector to boost business and increase exposure.</p>
-			<p class="editable"><a href="{{ site.baseurl }}/portfolio/">View Full Portfolio &rarr;</a></p>
+			<h3 class="editable">Oczekiwania</h3>
+			<p class="editable">
+Poziom 200
+Nie będziemy kodować
+Będzie dużo Azura
+Będzie hardware
+Będzie „Hellow world” demo, ale w oparciu o Azura
+			</p>
+			
 		</div>
 		<div>
-			<ul class="image-grid">
-				{% for client in site.clients limit: 4 %}
-					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}"></a></li>
-				{% endfor %}
-			</ul>
+			<h3 class="editable">Plan tudzież Agenda</h3>
+			<p class="editable">
+				Będzie trochę wprowadzenia w koncepty IoT i trochę przykładów, tak aby zobaczyć jak dane wędrują do internetu z urządzeń.
+				Co to jest IoT
+				Architektura referencyjna
+				Azure IoT Hub
+				Azure Device Provisioning Service
+				Praca własna: IoT Hub
+				MxChip
+				Praca własna: MxChip – pierwszy kontakt
+				Azure IoT solution accelerators: Remote Monitoring
+				Praca własna: Remote monitoring
+			</p>
 		</div>
 	</div>
 </section>
 
 <section class="diagonal alternate">
 	<div class="container halves">
-		<div>
-			<ul class="image-list">
-				<li><img src="{{ site.baseurl }}/images/cloudcannon-logo-blue.svg" width="250" style="margin-bottom: 40px;"></li>
-				<li><img src="{{ site.baseurl }}/images/jekyll-logo-black-red-transparent.png" width="300"></li>
-			</ul>
-		</div>
-		<div>
-			<h3 class="editable">Latest software, greatest perfomance</h3>
-			<p class="editable">As a new agency we get reap the benefits of the latest and greatest. We build our websites with the most up to date technology. This ensures your website is fast, efficient and reliable for many years.</p>
-		</div>
+		<h3 class="editable">Wymagania i przygotowanie</h3>
+		<p class="editable">
+		VS Code, Azure subscription
+Azure IoT Tools VS Code plugin 
+https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-tools
+Azure IoT Workbench VS Code plugin
+https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-iot-workbench
+ST Link driver for windows
+https://www.st.com/en/development-tools/stsw-link009.html
+IoT Hub Toolkit VS Code plugin 
+https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit
+Arduino IDE 
+https://www.arduino.cc/en/Main/Software
+Arduino VS Code plugin 
+https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino
+Konfiguracja VS Code pluginu
+Add following lines to configure Arduino depending on your platform:
+	○ Windows:
+JSONCopy
+"arduino.path": "C:\\Program Files (x86)\\Arduino",
+"arduino.additionalUrls": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/master/package_azureboard_index.json"
+	○ macOS:
+JSONCopy
+"arduino.path": "/Applications",
+"arduino.additionalUrls": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/master/package_azureboard_index.json"
+	○ Ubuntu:
+Replace the {username} placeholder below with your username.
+JSONCopy
+"arduino.path": "/home/{username}/Downloads/arduino-1.8.8",
+"arduino.additionalUrls": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/master/package_azureboard_index.json"
+		</p>
 	</div>
 </section>
