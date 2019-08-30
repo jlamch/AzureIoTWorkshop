@@ -1,7 +1,7 @@
 title: JLamch Azure IoT workshop
 url: "https://jlamch.net"
 baseurl: "/AzureIoTWorkshop"
-google_analytics_key:
+google_analytics_key: "UA-127059285-3"
 google_maps_javascript_api_key:
 disqus_shortname: JLamch Azure IoT workshop
 
