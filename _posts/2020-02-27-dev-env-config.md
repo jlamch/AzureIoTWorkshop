@@ -1,16 +1,10 @@
 ---
-layout: default
+title: Development environment configuration
+categories:
+  - Prepare
+show_comments: false
 ---
-<section class="hero diagonal">
-	<div class="container">
 
-	
-	</div>
-</section>
-
-<section class="diagonal">
-	<div class="text-container">
-		
 ## Prepare the development environment
 
 We recommend [Azure IoT Tools](https://aka.ms/azure-iot-tools) extension pack for Visual Studio Code to develop on the DevKit. The Azure IoT Tools contains [Azure IoT Device Workbench](https://aka.ms/iot-workbench) to develop and debug on various IoT devkit devices and [Azure IoT Hub Toolkit](https://aka.ms/iot-toolkit) to manage and interact with Azure IoT Hub.
@@ -110,6 +104,3 @@ Provide project name. Choose **Arduino** as Project base, then select **MXChip I
     ![Select board and COM](https://github.com/Microsoft/azure-iot-developer-kit/blob/pre-release/docs/assets/images/getting-started/select-com.png?raw=true)
 
 1. Click `F1` again, type and select **Azure IoT Device Workbench: Upload Device Code**. It starts compile and upload the code to DevKit. Or select **Arduino: Verify** for compile and **Arduino: Upload** to upload the code to DevKit.
-
-	</div>
-</section>
