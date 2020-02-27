@@ -247,6 +247,15 @@ section {
 	}
 }
 
+.darkbackground {
+	background: #222;
+
+	&,
+	p {
+		color: #fefefe;
+	}
+}
+
 .jldark{		
 	color: rgb(102, 102, 102);
 }
