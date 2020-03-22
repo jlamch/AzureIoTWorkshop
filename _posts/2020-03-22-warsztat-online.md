@@ -42,7 +42,7 @@ permalink: /warsztaty-online/
 
 
 <h3>
-Dodatkowo artykuły o IoT na tym blogu:</h3>
+Dodatkowo artykuły o IoT na moim blogu:</h3>
 <ul>
 <li><a href="https://www.programistkaikot.pl/2019/08/internet-of-things-projekt.html" target="_blank">Internet of Things projekt</a></li>
 <li><a href="https://www.programistkaikot.pl/2019/08/iot-narzedzia.html" target="_blank">IoT, narzędzia</a></li>
