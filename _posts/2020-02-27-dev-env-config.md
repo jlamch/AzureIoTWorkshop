@@ -3,6 +3,7 @@ title: Development environment configuration
 categories:
   - Prepare
 show_comments: false
+permalink: /dev-env-config/
 ---
 
 ## Prepare the development environment
