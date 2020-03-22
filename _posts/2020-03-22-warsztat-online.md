@@ -39,6 +39,7 @@ permalink: /warsztaty-online/
 
 
 1. IoT w modelu SaaS (Software as a Service) czyli IoT Central.
+  - [Blog post: IoT w modelu SaaS czyli IoT Central](https://www.programistkaikot.pl/2020/04/iot-w-modelu-saas-czyli-iot-central.html)
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/IpanNMeoZEI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
@@ -55,7 +56,7 @@ Dodatkowo artykuły o IoT na moim blogu:</h3>
 <li><a href="https://www.programistkaikot.pl/2019/09/iot-rejestracja-urzadzen-w-wielu-iot.html" target="_blank">IoT rejestracja urządzeń w wielu IoT Hubach automatycznie czyli Device Provisioning Service</a></li>
 <li><a href="https://www.programistkaikot.pl/2019/09/iot-solution-accelerators-remote.html" target="_blank">IoT solution accelerators: Remote Monitoring</a></li>
 <li>IoT Solution Accelerators: Device simulator</li>
-<li>IoT w modelu SaaS czyli IoT Central</li>
+<li><a href="https://www.programistkaikot.pl/2020/04/iot-w-modelu-saas-czyli-iot-central.html" target="_blank"> IoT w modelu SaaS czyli IoT Central</a></li>
 <li><a href="https://www.programistkaikot.pl/2020/03/iot-hub-bardzo-wstepnie.html" target="_blank">IoT Hub bardzo wstępnie</a></li>
 <li><a href="https://www.programistkaikot.pl/2020/03/iot-hub-message-routing-endpoints.html" target="_blank">IoT Hub message routing &amp; endpoints</a></li>
 <li><a href="https://www.programistkaikot.pl/2020/03/iot-hub-prosta-implementacja.html" target="_blank">IoT Hub, Lambda Architecture</a></li>
