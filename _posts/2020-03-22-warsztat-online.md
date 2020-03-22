@@ -70,3 +70,8 @@ Trochę bardziej MxChip i Arduino.&nbsp;<a href="https://github.com/jlamch/MxChi
 <li><a href="https://www.programistkaikot.pl/2020/02/mxchip-audio.html" target="_blank">MXChip audio</a></li>
 </ul>
 
+<section class="diagonal patterned">
+	<div class="container">
+    <h2><a href="https://jlamch.net/iotexercises/">Ćwiczenia według których warsztat się odbywa</a></h2>
+  </div>
+</section>
