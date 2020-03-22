@@ -2,41 +2,47 @@
 title: Warsztat w wersji online
 categories:
   - Online
-show_comments: true
+show_comments: false
 permalink: /warsztaty-online/
 ---
 
 ## Warsztat najlepiej jest odbierać na żywo. Jednak jeśli się nie da to nagrania mogą być równie ciekawe.
+### Poza nagranymi wideo warto spojrzeć też do artykułów na blogu.
 
 1. Zacznijmy od nagranej prelekcji w tym temacie. Materiał troszkę starszy ale można coś z niego wyciągnąć. Ale nie jest konieczny dla całości.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hKu9BPqCgpM" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Architektura referencyjna
-  - [Internet of Things projekt](https://www.programistkaikot.pl/2019/08/internet-of-things-projekt.html)
+2. Architektura referencyjna
+  - [Blog post: Internet of Things projekt](https://www.programistkaikot.pl/2019/08/internet-of-things-projekt.html)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YxmiQZ7FjFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-1. Tworzenie IoT Hub, tworzenie device oraz monitoring IoT Huba i symulowanie wiadomości.
-  - [Event Hub](https://www.programistkaikot.pl/2020/02/azure-event-hub.html)
-  - [Wstęp do IoT Huba](https://www.programistkaikot.pl/2020/03/iot-hub-bardzo-wstepnie.html)
+3. Tworzenie IoT Hub, tworzenie device oraz monitoring IoT Huba i symulowanie wiadomości.
+  - [Blog post: Event Hub](https://www.programistkaikot.pl/2020/02/azure-event-hub.html)
+  - [Blog post: Wstęp do IoT Huba](https://www.programistkaikot.pl/2020/03/iot-hub-bardzo-wstepnie.html)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ItIZGJmxbI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Konfiguracja fizycznego urządzenia, monitorowanie wysyłanych wiadomości.
-  - [IoT DevKit. Czyli urządzenie w łapki :)](https://www.programistkaikot.pl/2019/08/iot-devkit-czyli-urzadzenie-w-apki.html)
+
+4. Konfiguracja fizycznego urządzenia, monitorowanie wysyłanych wiadomości.
+  - [Blog post: IoT DevKit. Czyli urządzenie w łapki :)](https://www.programistkaikot.pl/2019/08/iot-devkit-czyli-urzadzenie-w-apki.html)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TCY1jkvoCLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Stworzenie Storage Account, wyjaśnienie Messege routing, stworzenie routingu cold path. Ciągłe monitorowanie wiadomości.
-  - [IoT Hub message routing & endpoints](https://www.programistkaikot.pl/2020/03/iot-hub-message-routing-endpoints.html)
+
+5. Stworzenie Storage Account, wyjaśnienie Messege routing, stworzenie routingu cold path. Ciągłe monitorowanie wiadomości.
+  - [Blog post: IoT Hub message routing & endpoints](https://www.programistkaikot.pl/2020/03/iot-hub-message-routing-endpoints.html)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sPjXKGkZ80Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Prosta ścieżka Hot Path, zrealizowana za pomocą Azure Functions oraz CosmosDB. Przywrócenie wbudowanego endpointu.
-  -  [IoT Hub, Lambda Architecture](https://www.programistkaikot.pl/2020/03/iot-hub-prosta-implementacja.html)
+
+6. Prosta ścieżka Hot Path, zrealizowana za pomocą Azure Functions oraz CosmosDB. Przywrócenie wbudowanego endpointu.
+  -  [Blog post: IoT Hub, Lambda Architecture](https://www.programistkaikot.pl/2020/03/iot-hub-prosta-implementacja.html)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/982P87K7eL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+---
+
 
 <h3>
-Artykuły o IoT na tym blogu:</h3>
+Dodatkowo artykuły o IoT na tym blogu:</h3>
 <ul>
 <li><a href="https://www.programistkaikot.pl/2019/08/internet-of-things-projekt.html" target="_blank">Internet of Things projekt</a></li>
 <li><a href="https://www.programistkaikot.pl/2019/08/iot-narzedzia.html" target="_blank">IoT, narzędzia</a></li>
