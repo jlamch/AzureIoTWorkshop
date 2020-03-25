@@ -9,6 +9,9 @@ permalink: /warsztaty-online/
 ## Warsztat najlepiej jest odbierać na żywo. Jednak jeśli się nie da to nagrania mogą być równie ciekawe.
 ### Poza nagranymi wideo warto spojrzeć też do artykułów na blogu.
 
+#### Konfigurację środowiska oraz linki do zakupów znajdziesz na 
+ [stronie głównej](http://jlamch.net/AzureIoTWorkshop/) 
+
 1. Zacznijmy od nagranej prelekcji w tym temacie. Materiał troszkę starszy ale można coś z niego wyciągnąć. Ale nie jest konieczny dla całości.
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/hKu9BPqCgpM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -41,6 +44,11 @@ permalink: /warsztaty-online/
 1. IoT w modelu SaaS (Software as a Service) czyli IoT Central.
   - [Blog post: IoT w modelu SaaS czyli IoT Central](https://www.programistkaikot.pl/2020/04/iot-w-modelu-saas-czyli-iot-central.html)
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/IpanNMeoZEI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ 1. Solution Accelerators, czyli przykadowe rozwizania IoT
+    - [Blog post: IoT solution accelerators: Remote Monitoring](https://www.programistkaikot.pl/2019/09/iot-solution-accelerators-remote.html)
+    - <iframe width="560" height="315" src="https://www.youtube.com/embed/SpiJ57zoa0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    - <iframe width="560" height="315" src="https://www.youtube.com/embed/XMIpJdNpFBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 
