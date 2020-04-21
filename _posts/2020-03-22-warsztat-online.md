@@ -49,6 +49,11 @@ permalink: /warsztaty-online/
     - [Blog post: IoT solution accelerators: Remote Monitoring](https://www.programistkaikot.pl/2019/09/iot-solution-accelerators-remote.html)
     - <iframe width="560" height="315" src="https://www.youtube.com/embed/SpiJ57zoa0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     - <iframe width="560" height="315" src="https://www.youtube.com/embed/XMIpJdNpFBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 1. Stream Analytics, potężne narzędzie do przetwarzania danych streamingowych w IoT
+    - [Blog post: Azure Stream Analytics, prosty przypadek](https://www.programistkaikot.pl/2020/04/azure-stream-analytics-prosty-przypadek.html)
+    - [Blog post: Stream Analytics SQL Database integration](http://www.programistkaikot.pl/2020/04/stream-analytics-sql-database.html)
+    - <iframe width="560" height="315" src="https://www.youtube.com/embed/Y5ntX70Etb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    - <iframe width="560" height="315" src="https://www.youtube.com/embed/BgyNebPQHN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 ---
 
 
