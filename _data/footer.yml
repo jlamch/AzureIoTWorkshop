@@ -1,9 +1,17 @@
 - title: Pages
   links:
     - name: Home
+      link: https://jlamch.net
+    - name: Home Azure IoT Workshop
       link: /
+    - name: Programistka i Kot
+      link: https://programistkaikot.pl
 - title: Social
   links:
+    - name: YouTube
+      link: https://www.youtube.com/channel/UCTRtzI-qd9bBcf4o4Pu0C6A
+      social_icon: YouTube
+      new_window: true
     - name: Facebook
       link: https://facebook.com/jlamch/
       social_icon: Facebook

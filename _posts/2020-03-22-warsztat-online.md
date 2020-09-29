@@ -8,7 +8,8 @@ permalink: /warsztaty-online/
 
 ## Warsztat najlepiej jest odbierać na żywo. Jednak jeśli się nie da to nagrania mogą być równie ciekawe.
 ### Poza nagranymi wideo warto spojrzeć też do artykułów na blogu.
-
+### Jeśli wolisz całą listę na YouTube
+ [znajdziesz ją tutaj](https://www.youtube.com/playlist?list=PLC5LIX9Pfs1XymJmtK8kw7j4puBGKMyCa)
 #### Konfigurację środowiska oraz linki do zakupów znajdziesz na 
  [stronie głównej](http://jlamch.net/AzureIoTWorkshop/) 
 
